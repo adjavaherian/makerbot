@@ -1,0 +1,46 @@
+  html {
+
+    background-size:cover;
+    font-family:'helvetica neue';
+    text-align: center;
+    font-size: 10px;
+  }
+
+  body {
+    font-size: 2rem;
+    display:flex;
+    flex-direction: column;
+    min-height: 100vh;
+    align-items: flex-start;
+    margin-top: 10px;
+  }
+
+  div {
+      margin-bottom: 20px;
+  }
+
+  input {
+    width: 15rem;
+    height: 1rem;
+
+    border-radius: 4px;
+    position: relative;
+    padding:2rem;
+    box-shadow:
+      0 0 0 2px rgba(0,0,0,0.1)
+  }
+
+  button {
+      width: 15rem;
+      height: 5rem;
+      border-radius: 4px;
+      background: white;
+  }
+
+  input, button {
+      font-size: 14px;
+  }
+
+  .reset {
+      font-size: 12px;
+  }

@@ -1,0 +1,22 @@
+{
+  "name": "makerbot",
+  "version": "1.0.0",
+  "description": "stateful express server",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adjavaherian/makerbot.git"
+  },
+  "author": "@adjavaherian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adjavaherian/makerbot/issues"
+  },
+  "homepage": "https://github.com/adjavaherian/makerbot#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
