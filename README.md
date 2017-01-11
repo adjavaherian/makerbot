@@ -1,6 +1,6 @@
 # makerbot
 
-Stateful express server using local storage
+"Stateful" express server example using local storage on client
 
 `npm install && npm start`
 
